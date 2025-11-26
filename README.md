@@ -1,8 +1,11 @@
 # Micro-CPU 2Bits
 
-Autores
-Luis Antonio Audon Perez (ID: 141859)
-Ashly Esther Englenton  Zapeda (ID: 151177)
+## Autores
+
+1.
+
+2. 
+
 
 ##  Objetivo
 El objetivo de este proyecto es construir un modelo funcional y simplificado de una Unidad Central de Procesamiento (CPU) utilizando una placa RP2040 Zero. El proyecto simula:
